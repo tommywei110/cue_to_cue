@@ -8,9 +8,7 @@ project:
     heroku:
       url: 'https://cue-to-cue.herokuapp.com/'
     travis:
-      url: 'url'
-    codecov:
-      url: 'url'
+      url: 'https://travis-ci.org/github/tommywei110/cue_to_cue'
   members:    
     member1:
       name: 'Justin'
