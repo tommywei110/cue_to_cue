@@ -1,0 +1,21 @@
+project:
+  name: 'q2q'
+  owner: 'cs169'
+  teamId: '3'
+  identities:
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2487676'
+    heroku:
+      url: 'https://cue-to-cue.herokuapp.com/'
+    travis:
+      url: 'url'
+    codecov:
+      url: 'url'
+  members:    
+    member1:
+      name: 'Justin'
+      surname: 'Phyo'
+      githubUsername: 'justinphyo'
+      pivotalUsername: 'justinphyo'
+      herokuEmail: 'justinphyo@berkeley.edu'
+
