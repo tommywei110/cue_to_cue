@@ -1,6 +1,6 @@
 [![Bluejay Dashboard](https://img.shields.io/badge/bluejay-dashboard_3-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-GH-tommywei110_cue_to_cue/main)
 [![Build Status](https://travis-ci.org/tommywei110/cue_to_cue.svg?branch=master)](https://travis-ci.org/tommywei110/cue_to_cue)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/410408639e269157b1ba/maintainability)](https://codeclimate.com/github/tommywei110/cue_to_cue/maintainability)
 # README
 
 This README would normally document whatever steps are necessary to get the
